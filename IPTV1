@@ -84,8 +84,6 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarin TV" tvg-logo="https://i.imgur.com/i4FVrWj.png" group-title="AFGHANISTAN",Zarin TV
 https://59d39900ebfb8.streamlock.net/8484/8484/playlist.m3u8
 
-
-#EXTM3U
 #EXTINF:-1 tvg-name="*** SWEDEN - github.com/free-iptv" tvg-logo="https://i.imgur.com/6RX1gF5.jpg" group-title="SWEDEN",*** SWEDEN - github.com/free-iptv
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Action Movies SE" tvg-id="" tvg-logo="https://i.imgur.com/81NIxYJ.jpg" group-title="SWEDEN",Action Movies SE
